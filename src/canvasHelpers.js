@@ -41,6 +41,7 @@ export function drawChromeBoiAtCoords(x, y) {
 }
 
 export function toggleCycling() {
+
   cycling = !cycling
 }
 
